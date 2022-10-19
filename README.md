@@ -9,3 +9,4 @@ Code can also be added in to have it get their username from Windows and query A
 
 You can run this in Group Policy as a logoff script with this command: powershell.exe -NoLogo -NoProfile -WindowStyle Hidden ".\Check-USB.ps1"
 
+![Alt text](/../main/Check-USB.png?raw=true "Optional Title")
